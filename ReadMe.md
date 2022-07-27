@@ -19,6 +19,8 @@ To run the implementations located in src simply select the '.ipynb' file.
 
 ### References ###
 
+0. People that I come across in IRL
+
 1. Youtube
 
 2. Github and google
