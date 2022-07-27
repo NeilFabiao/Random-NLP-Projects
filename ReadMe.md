@@ -2,13 +2,13 @@
 
 ### Welcome to the repo ###
 
-![alt-text-1](/Project/img/BKlf.gif)
+![alt-text-1](/img/BKlf.gif)
 
 
 
 ### Repo structure ###
 
-The projects were done using python (jupyter-notebook), and there are 3 other subsequent folders namely:
+The projects were done using python (jupyter-notebook), and there are 2 other subsequent folders namely:
 
 * src - or source code where the different projects are located
 * img - has the visualization gif used in the repo 😁.
