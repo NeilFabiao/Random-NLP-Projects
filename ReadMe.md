@@ -11,7 +11,6 @@
 The projects were done using python (jupyter-notebook), and there are 3 other subsequent folders namely:
 
 * src - or source code where the different projects are located
-* pdf - where summary of the work is present. 
 * img - has the visualization gif used in the repo 😁.
 
 To run the implementations located in src simply select the '.ipynb' file. 
@@ -30,4 +29,4 @@ To run the implementations located in src simply select the '.ipynb' file.
 
 * Repo owner Neil Fabião -> @neilfabiao ✌🏾
 
-![](https://komarev.com/ghpvc/?username=neilNLPR120&color=blue)
+![](https://komarev.com/ghpvc/?username=neilNLPR1020&color=blue)
