@@ -1,4 +1,4 @@
-# RNLPP - Random NLP Projects #
+# R NLP - Random NLP Projects #
 
 ### Welcome to the repo ###
 
